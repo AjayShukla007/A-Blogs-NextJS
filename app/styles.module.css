@@ -1,0 +1,6 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba(35, 35, 35, 0.654);
+}
